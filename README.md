@@ -36,8 +36,8 @@ Here's an example of what absolute positioning looks like in CSS:
 
 .child-element {
   position: absolute;
-  top: 50px;
-  left: 50px;
+  top: 30px;
+  left: 30px;
 }
 ```
 
